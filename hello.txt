@@ -3,5 +3,6 @@ hello2
 hello3
 edit by dev
 edit by remote
+edit by local
 edit by jack
 
